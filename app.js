@@ -36,7 +36,7 @@ app.post("/", function(req, res) {
     method: "POST",
     // simplest way to ensure authorization in nodejs
     headers: {
-      Authorization: "Basic e494f9fb110436b8973ec13696326c47-us"
+      Authorization: "Basic e494f9fb110436b8973ec13696326c47-us4"
     },
     body: jsonData
   };
